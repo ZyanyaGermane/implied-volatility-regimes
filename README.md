@@ -1,6 +1,6 @@
 # Implied volatility and future US index returns across market regimes
 
-Full empirical pipeline for my MSc Finance dissertation (Cardiff University, 2026): does implied volatility predict next-month US equity returns, and does that predictability change inside crises?
+Full empirical pipeline for my MSc Finance dissertation (Cardiff University, 2026): Does the Predictive Relationship Between Implied Volatility and Future U.S. Stock Returns Change During Periods of Market Stress? Evidence from the VIX, VXN and RVX
 
 ## Question
 
